@@ -21,6 +21,10 @@ A premium, framework-free HTML/CSS/vanilla-JS admin panel template for SaaS prod
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value | Usage |
